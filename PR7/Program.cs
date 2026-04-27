@@ -1,6 +1,10 @@
 ﻿int result = Fibonacci(5);
 Console.WriteLine(result);
 
+/// <summary> Рассчитывает число Фибоначчи для n.
+/// </summary>
+/// <returns> Значение числа Фибоначчи.
+/// </returns>
 static int Fibonacci(int n)
 {
     Console.WriteLine("The output is: ");
