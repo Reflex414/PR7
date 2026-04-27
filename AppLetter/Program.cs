@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Выполнил все действия по руководству
 class ArrayExample
 {
     static void Main()
